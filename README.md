@@ -1,5 +1,4 @@
 
-<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/{hoyeon}" width="100%"/> </a>
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/qkrtiger"
