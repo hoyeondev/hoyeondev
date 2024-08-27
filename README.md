@@ -1,7 +1,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/qkrtiger"
+  src="https://render.gitanimals.org/farms/qkrtiger?pet-id=1"
   width="800"
   height="300"
 />
