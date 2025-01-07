@@ -11,7 +11,4 @@
 qkrtiger/qkrtiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=YOUR_GITHUB_USERNAME)](https://github.com/qkrtiger/gitgarden)
-
-
-
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=qkrtiger)](https://github.com/marshallku/gitgarden)
