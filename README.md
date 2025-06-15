@@ -14,7 +14,7 @@
 - 👀 I’m interested in AI, robotics, and web development.
 - 🌱 I’m currently learning advanced robotics to become a developer specializing in ROS programming.
 - 📫 mail to : hoyeondev1@gmail.com
-- ⚡ Fun fact: I enjoy swimming, reading a book, and playing with my cats in my free time!
+- ⚡ Fun fact: I enjoy swimming, reading books, and playing with my cats in my free time!
   
 <br>
 <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=qkrtiger&utm_content=farm">
